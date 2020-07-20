@@ -1,0 +1,23 @@
+/* 全局样式 */
+
+/* 变量区 */
+
+
+/* 变量区 end */
+
+/* 全局样式区 */
+html,body{
+    margin: 0;
+    height: 100%; // 看板类型+菜单类型页面需要这个属性
+    min-width: 1366px;
+    min-height: 768px;
+    font-family: 'Microsoft YaHei';
+}
+
+body{
+    font-size: initial;
+}
+
+
+
+/* 全局样式区 end */
